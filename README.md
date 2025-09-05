@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Ratan1394/leetcode/tree/master/0204-count-primes) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ratan1394/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/Ratan1394/leetcode/tree/master/3321-type-of-triangle) |
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Ratan1394/leetcode/tree/master/0204-count-primes) |
 | [2481-strictly-palindromic-number](https://github.com/Ratan1394/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ratan1394/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/Ratan1394/leetcode/tree/master/3321-type-of-triangle) |
@@ -56,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/Ratan1394/leetcode/tree/master/2481-strictly-palindromic-number) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Ratan1394/leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Ratan1394/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Ratan1394/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0204-count-primes](https://github.com/Ratan1394/leetcode/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ratan1394/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0463-island-perimeter](https://github.com/Ratan1394/leetcode/tree/master/0463-island-perimeter) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ratan1394/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/Ratan1394/leetcode/tree/master/3321-type-of-triangle) |
 ## Math
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Ratan1394/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Ratan1394/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ratan1394/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0463-island-perimeter](https://github.com/Ratan1394/leetcode/tree/master/0463-island-perimeter) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ratan1394/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
@@ -82,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ratan1394/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Ratan1394/leetcode/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Ratan1394/leetcode/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->

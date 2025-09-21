@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Ratan1394/leetcode/tree/master/0204-count-primes) |
+| [0412-fizz-buzz](https://github.com/Ratan1394/leetcode/tree/master/0412-fizz-buzz) |
 | [2481-strictly-palindromic-number](https://github.com/Ratan1394/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ratan1394/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/Ratan1394/leetcode/tree/master/3321-type-of-triangle) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ratan1394/leetcode/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ratan1394/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/Ratan1394/leetcode/tree/master/0412-fizz-buzz) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Ratan1394/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ratan1394/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Stack
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ratan1394/leetcode/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/Ratan1394/leetcode/tree/master/0412-fizz-buzz) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ratan1394/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Queue
 |  |

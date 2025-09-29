@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Ratan1394/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Ratan1394/leetcode/tree/master/0412-fizz-buzz) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Ratan1394/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1542-consecutive-characters](https://github.com/Ratan1394/leetcode/tree/master/1542-consecutive-characters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ratan1394/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |

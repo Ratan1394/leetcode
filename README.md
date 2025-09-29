@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Ratan1394/leetcode/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ratan1394/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/Ratan1394/leetcode/tree/master/0463-island-perimeter) |
+| [0485-max-consecutive-ones](https://github.com/Ratan1394/leetcode/tree/master/0485-max-consecutive-ones) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ratan1394/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Ratan1394/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ratan1394/leetcode/tree/master/3227-find-missing-and-repeated-values) |

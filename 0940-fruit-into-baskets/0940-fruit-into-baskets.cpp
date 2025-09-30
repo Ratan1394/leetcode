@@ -6,18 +6,21 @@ public:
         while(r<fruits.size()){
             map[fruits[r]]++;
             if(map.size() > 2){
-                while(map.size() > 2){
+                if(map.size() > 2){
                     map[fruits[l]]--;
                     if(map[fruits[l]]==0){
                         map.erase(fruits[l]);
                     }
                     l++;
+                    // r++;
+                    //  map[fruits[r]]++;
                 }
             }
             if(map.size() <= 2){
                 maxlen = max(maxlen, r-l+1);
+                 
             }
-            r++;
+           r++;
         }
         return maxlen;
         

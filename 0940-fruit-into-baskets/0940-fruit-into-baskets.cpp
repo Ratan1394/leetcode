@@ -5,7 +5,7 @@ public:
         std::map<int, int> map;
         while(r<fruits.size()){
             map[fruits[r]]++;
-            if(map.size() > 2){
+           
                 if(map.size() > 2){
                     map[fruits[l]]--;
                     if(map[fruits[l]]==0){
@@ -14,7 +14,7 @@ public:
                     l++;
                     // r++;
                     //  map[fruits[r]]++;
-                }
+                
             }
             if(map.size() <= 2){
                 maxlen = max(maxlen, r-l+1);

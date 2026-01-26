@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ratan1394/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Ratan1394/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0189-rotate-array](https://github.com/Ratan1394/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Ratan1394/leetcode/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ratan1394/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/Ratan1394/leetcode/tree/master/0463-island-perimeter) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Ratan1394/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Ratan1394/leetcode/tree/master/0204-count-primes) |
 | [0412-fizz-buzz](https://github.com/Ratan1394/leetcode/tree/master/0412-fizz-buzz) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ratan1394/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Ratan1394/leetcode/tree/master/0189-rotate-array) |
 | [2481-strictly-palindromic-number](https://github.com/Ratan1394/leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Brainteaser
 |  |

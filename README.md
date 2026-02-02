@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Ratan1394/leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ratan1394/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Ratan1394/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/Ratan1394/leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ratan1394/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1542-consecutive-characters](https://github.com/Ratan1394/leetcode/tree/master/1542-consecutive-characters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ratan1394/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Ratan1394/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ratan1394/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Ratan1394/leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/Ratan1394/leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/Ratan1394/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Ratan1394/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->

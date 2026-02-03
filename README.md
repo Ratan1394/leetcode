@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ratan1394/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1480-running-sum-of-1d-array](https://github.com/Ratan1394/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Ratan1394/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1991-find-the-middle-index-in-array](https://github.com/Ratan1394/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ratan1394/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/Ratan1394/leetcode/tree/master/3321-type-of-triangle) |
 ## Math
@@ -149,4 +150,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Ratan1394/leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/Ratan1394/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Ratan1394/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1991-find-the-middle-index-in-array](https://github.com/Ratan1394/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->

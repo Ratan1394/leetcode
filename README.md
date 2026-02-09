@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ratan1394/leetcode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Ratan1394/leetcode/tree/master/0076-minimum-window-substring) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Ratan1394/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ratan1394/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Ratan1394/leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ratan1394/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Ratan1394/leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ratan1394/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Ratan1394/leetcode/tree/master/0189-rotate-array) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Ratan1394/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ratan1394/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2481-strictly-palindromic-number](https://github.com/Ratan1394/leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Brainteaser

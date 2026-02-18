@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ratan1394/leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Ratan1394/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Ratan1394/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Ratan1394/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ratan1394/leetcode/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/Ratan1394/leetcode/tree/master/0076-minimum-window-substring) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ratan1394/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ratan1394/leetcode/tree/master/0424-longest-repeating-character-replacement) |
